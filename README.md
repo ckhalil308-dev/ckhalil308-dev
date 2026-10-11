@@ -27,7 +27,7 @@
 ### 💫 About Me
 
 <p align="left">
-  <img align="right" src="https://media.giphy.com/media/qgQUGG4dbvA6A/giphy.gif" width="260" alt="Coding GIF" />
+  <img align="right" src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/master/assets/developer.gif" width="260" alt="Coding GIF" />
 
   * 🎓 **Education:** Information Systems Development (DSI) Student at **ISET Charguia**
   * 💻 **Core Expertise:** Web & Mobile application development using **Angular**, **React**, **Spring Boot**, & **Express.js**
@@ -35,7 +35,7 @@
   * 🛠️ **DevOps & Tools:** Docker, Kafka, PostgreSQL, MongoDB, and Supabase
 </p>
 
-<br/>
+<br clear="right"/>
 
 ---
 
